@@ -24,3 +24,26 @@
         "onMouseUp": "sun1.opacity = (sun1.opacity / 100) * 90;"
     }
 }}    
+
+
+
+(18) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+0: {first: "wrgwrg", 2nd: "", 3rd: "bkc", 4th: "", 5th: "mumbai", …}
+1: {first: "sfgwdg", 2nd: "", 3rd: "bkc", 4th: "", 5th: "mumbai", …}
+2: {first: "Nisith", 2nd: "", 3rd: "bkc", 4th: "", 5th: "mumbai", …}
+3: {first: "dndfn", 2nd: "", 3rd: "bkc", 4th: "", 5th: "mumbai", …}
+4: {first: "Nisith", 2nd: "", 3rd: "bkc", 4th: "", 5th: "mumbai", …}
+5: {first: "adfg", 2nd: "", 3rd: "bkc", 4th: "", 5th: "mumbai", …}
+6: {first: "amjad", 2nd: "", 3rd: "bkc", 4th: "", 5th: "mumbai", …}
+7: {first: "debasis", 2nd: "", 3rd: "bkc", 4th: "", 5th: "mumbai", …}
+8: {first: "mohanty", 2nd: "", 3rd: "bkc", 4th: "", 5th: "mumbai", …}
+9: {first: "sfbasfbas", 2nd: "", 3rd: "gsdgs", 4th: "gsdgdsg", 5th: "dsgds", …}
+10: {first: "adgaeadgaadgadg", 2nd: "", 3rd: "gsdgs", 4th: "gsdgdsg", 5th: "dsgds", …}
+11: {first: "dfgth", 2nd: "", 3rd: "gsdgs", 4th: "gsdgdsg", 5th: "dsgds", …}
+12: {first: "farhan", 2nd: "", 3rd: "gsdgs", 4th: "gsdgdsg", 5th: "dsgds", …}
+13: {first: "", 2nd: "", 3rd: "", 4th: "", 5th: "", …}
+14: {first: "", 2nd: "", 3rd: "", 4th: "", 5th: "", …}
+15: {first: "", 2nd: "", 3rd: "", 4th: "", 5th: "", …}
+16: {first: "adp", 2nd: "", 3rd: "", 4th: "", city: "patna", …}
+17: {first: "adp", 2nd: "", 3rd: "bkc", 4th: "", city: "mumbai00005", …}
+length: 18
